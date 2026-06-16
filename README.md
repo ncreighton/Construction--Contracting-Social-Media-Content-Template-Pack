@@ -1,2 +1,25 @@
-# Construction--Contracting-Social-Media-Content-Template-Pack
-30 days of post templates, stories, reels scripts, and engagement prompts for Construction &amp; Contracting. Never run out of content ideas.
+# Construction & Contracting Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AfZh9z9bUE09afQ8d0p2j)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AfZh9z9bUE09afQ8d0p2j)
+
